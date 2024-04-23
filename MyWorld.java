@@ -11,6 +11,6 @@ public class MyWorld extends World
         addObject(hero, 100, 100);
         
         Banana banana = new Banana();
-        addObject(banana, 400, 100);
+        addObject(banana, 550, 100);
     }
 }
